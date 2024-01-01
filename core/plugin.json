@@ -1,0 +1,11 @@
+{
+    "name": "mindustry-plugin-boilerplate",
+    "displayName": "GenesisCommon",
+    "author": "Kennarddh",
+    "description": "Description",
+    "minGameVersion": "146",
+    "java": true,
+    "main": "kennarddh.boilerplate.core.Main",
+    "version": "1.0.0",
+    "repo": "kennarddh-mindustry/kotlin-mindustry-plugin-boilerplate"
+}

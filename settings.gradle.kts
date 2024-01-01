@@ -10,3 +10,4 @@ plugins {
 }
 
 rootProject.name = "kotlin-mindustry-plugin-boilerplate"
+include(":core")

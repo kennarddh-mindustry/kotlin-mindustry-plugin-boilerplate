@@ -1,4 +1,4 @@
-package kennarddh
+package kennarddh.boilerplate.core
 
 import arc.util.Log
 import mindustry.mod.Plugin
